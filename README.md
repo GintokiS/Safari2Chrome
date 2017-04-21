@@ -1,4 +1,4 @@
-# Sarari2Chrome 
+# Safari2Chrome 
 # v0.1
 Get URLs from Safari read list, then create Chrome bookmark html file.
 
